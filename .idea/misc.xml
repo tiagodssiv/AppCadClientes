@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/drawable-anydpi/ic_action_add.xml" value="0.151" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/drawable/background.xml" value="0.22" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/drawable/drower.xml" value="0.151" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.151" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/drawable/ic_item_menu_padrao.xml" value="0.151" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/drawable/side_nav_bar.xml" value="0.151" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/alterarclientes.xml" value="0.25" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/app_bar_main.xml" value="0.5" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/cadastrarClientes.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/cadastrarclientes.xml" value="0.18" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/fragment_azul.xml" value="0.1" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/fragment_listar_clientes.xml" value="0.33" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/fragment_preto.xml" value="0.1" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/fragment_vermelho.xml" value="0.1" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/listar_cliente_item.xml" value="0.42348008385744235" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/menu/main.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/Public/meusApps/AppModeloDrawable/app/src/main/res/xml/network_security_config.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
